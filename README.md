@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah Shaikh
-- 👀 I’m interested in data science, AI, Machine Learning,etc.
+- 👀 I’m interested in data science, AI, Machine Learning, Web development, etc.
 - 🌱 I’m currently learning computer science and engineering.
 
 <!---
